@@ -1,10 +1,10 @@
 /* Set these to your desired credentials. */
 //WIFI
-const char *ssid = "Pretty fly for a WiFi";
-const char *password = "aaaaaaaaAAAAAAAA11111111!!!!!!!!";
+const char *ssid = "YOURSSID";
+const char *password = "YOURPASSWORT";
 
 //MQTT
-#define MQTT_SERVER "192.168.178.25"  //you MQTT IP Address
+#define MQTT_SERVER "192.168.188.22"  //you MQTT IP Address
 #define mqtt_username "homeassistant" 
 #define mqtt_password ""
 #define mqtt_clientname "Wohnzimmer_sofa_temp_hum_pres"
